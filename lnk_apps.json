@@ -1,0 +1,666 @@
+{
+  "administrative tools": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools.lnk"
+  },
+  "figma": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Figma.lnk"
+  },
+  "git for windows": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Git for Windows.lnk"
+  },
+  "grammarly": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Grammarly.lnk"
+  },
+  "maxxaudio pro by waves \u2013 speaker and microphone audio control and nx 3d sound": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MaxxAudio Pro by Waves \u2013 Speaker and Microphone Audio Control and Nx 3D Sound.lnk"
+  },
+  "opera gx browser": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Opera GX Browser.lnk"
+  },
+  "tor browser": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Tor Browser.lnk"
+  },
+  "utorrent web": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\uTorrent Web.lnk"
+  },
+  "yoodli": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Yoodli.lnk"
+  },
+  "livecaptions": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\LiveCaptions.lnk"
+  },
+  "magnify": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Magnify.lnk"
+  },
+  "narrator": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\Narrator.lnk"
+  },
+  "on-screen keyboard": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\On-Screen Keyboard.lnk"
+  },
+  "voiceaccess": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Accessibility\\VoiceAccess.lnk"
+  },
+  "anaconda powershell prompt": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda3 (64-bit)\\Anaconda Powershell Prompt.lnk"
+  },
+  "anaconda prompt": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Anaconda3 (64-bit)\\Anaconda Prompt.lnk"
+  },
+  "capcut": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\CapCut\\CapCut.lnk"
+  },
+  "eclipse ide for java developers - 2024-06": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Eclipse\\Eclipse IDE for Java Developers - 2024-06.lnk"
+  },
+  "eclipse ide for java developers - 2024-09": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Eclipse\\Eclipse IDE for Java Developers - 2024-09.lnk"
+  },
+  "mongodb compass": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MongoDB Inc\\MongoDB Compass.lnk"
+  },
+  "postman": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Postman\\Postman.lnk"
+  },
+  "idle (python 3.11 64-bit)": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\IDLE (Python 3.11 64-bit).lnk"
+  },
+  "python 3.11 (64-bit)": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 (64-bit).lnk"
+  },
+  "python 3.11 manuals (64-bit)": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Manuals (64-bit).lnk"
+  },
+  "python 3.11 module docs (64-bit)": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Python 3.11\\Python 3.11 Module Docs (64-bit).lnk"
+  },
+  "steam": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk"
+  },
+  "command prompt": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Command Prompt.lnk"
+  },
+  "turbovpn": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\TurboVPN\\TurboVPN.lnk"
+  },
+  "visual studio code": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk"
+  },
+  "windows powershell (x86)": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell (x86).lnk"
+  },
+  "windows powershell": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell.lnk"
+  },
+  "console rar manual": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\Console RAR manual.lnk"
+  },
+  "what is new in the latest version": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\What is new in the latest version.lnk"
+  },
+  "winrar help": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR help.lnk"
+  },
+  "winrar": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\WinRAR\\WinRAR.lnk"
+  },
+  "uninstall zoom workplace": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Uninstall Zoom Workplace.lnk"
+  },
+  "zoom workplace": {
+    "type": "lnk",
+    "path": "C:\\Users\\Hari\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Zoom\\Zoom Workplace.lnk"
+  },
+  "blend for visual studio 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Blend for Visual Studio 2022.lnk"
+  },
+  "brave": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Brave.lnk"
+  },
+  "excel": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk"
+  },
+  "google chrome": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Google Chrome.lnk"
+  },
+  "microsoft edge": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Edge.lnk"
+  },
+  "onedrive": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneDrive.lnk"
+  },
+  "onenote": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OneNote.lnk"
+  },
+  "powerpoint": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk"
+  },
+  "sticky notes (new)": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Sticky Notes (new).lnk"
+  },
+  "visual studio 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022.lnk"
+  },
+  "visual studio installer": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Installer.lnk"
+  },
+  "word": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk"
+  },
+  "7-zip file manager": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip File Manager.lnk"
+  },
+  "7-zip help": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\7-Zip\\7-Zip Help.lnk"
+  },
+  "remote desktop connection": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Remote Desktop Connection.lnk"
+  },
+  "steps recorder": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Steps Recorder.lnk"
+  },
+  "windows fax and scan": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Fax and Scan.lnk"
+  },
+  "windows media player legacy": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\Windows Media Player Legacy.lnk"
+  },
+  "character map": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Accessories\\System Tools\\Character Map.lnk"
+  },
+  "component services": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Component Services.lnk"
+  },
+  "computer management": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Computer Management.lnk"
+  },
+  "dfrgui": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\dfrgui.lnk"
+  },
+  "disk cleanup": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Disk Cleanup.lnk"
+  },
+  "event viewer": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Event Viewer.lnk"
+  },
+  "iscsi initiator": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\iSCSI Initiator.lnk"
+  },
+  "memory diagnostics tool": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Memory Diagnostics Tool.lnk"
+  },
+  "odbc data sources (32-bit)": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (32-bit).lnk"
+  },
+  "odbc data sources (64-bit)": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\ODBC Data Sources (64-bit).lnk"
+  },
+  "performance monitor": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Performance Monitor.lnk"
+  },
+  "recoverydrive": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\RecoveryDrive.lnk"
+  },
+  "registry editor": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Registry Editor.lnk"
+  },
+  "resource monitor": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Resource Monitor.lnk"
+  },
+  "services": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\services.lnk"
+  },
+  "system configuration": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Configuration.lnk"
+  },
+  "system information": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\System Information.lnk"
+  },
+  "task scheduler": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Task Scheduler.lnk"
+  },
+  "windows defender firewall with advanced security": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Administrative Tools\\Windows Defender Firewall with Advanced Security.lnk"
+  },
+  "android studio": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Android Studio\\Android Studio.lnk"
+  },
+  "git bash": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Bash.lnk"
+  },
+  "git cmd": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git CMD.lnk"
+  },
+  "git gui": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git GUI.lnk"
+  },
+  "git release notes": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git\\Git Release Notes.lnk"
+  },
+  "about java": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\About Java.lnk"
+  },
+  "check for updates": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Check For Updates.lnk"
+  },
+  "configure java": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Java\\Configure Java.lnk"
+  },
+  "microsoft azure compute emulator - v2.9": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Azure\\Emulator\\Microsoft Azure Compute Emulator - v2.9.lnk"
+  },
+  "documentation": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Documentation.lnk"
+  },
+  "microsoft azure command prompt - v2.9": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Azure\\Microsoft Azure SDK for .NET\\v2.9\\Microsoft Azure Command Prompt - v2.9.lnk"
+  },
+  "microsoft azure hpc scheduler sdk content": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Azure\\Microsoft Azure SDK for .NET\\v2.9\\Microsoft Azure HPC Scheduler SDK Content.lnk"
+  },
+  "release notes": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\Release Notes.lnk"
+  },
+  "samples": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Azure\\Microsoft Azure SDK for .NET\\v2.9\\Samples.lnk"
+  },
+  "office language preferences": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Microsoft Office Tools\\Office Language Preferences.lnk"
+  },
+  "mysql shell": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Shell.lnk"
+  },
+  "mysql workbench 8.0 ce": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Workbench 8.0 CE.lnk"
+  },
+  "mysql installer - community": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Installer - Community\\MySQL Installer - Community.lnk"
+  },
+  "mysql 8.0 command line client - unicode": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Server 8.0\\MySQL 8.0 Command Line Client - Unicode.lnk"
+  },
+  "mysql 8.0 command line client": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\MySQL\\MySQL Server 8.0\\MySQL 8.0 Command Line Client.lnk"
+  },
+  "install additional tools for node.js": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Install Additional Tools for Node.js.lnk"
+  },
+  "node.js command prompt": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js command prompt.lnk"
+  },
+  "node.js": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Node.js.lnk"
+  },
+  "uninstall node.js": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Node.js\\Uninstall Node.js.lnk"
+  },
+  "geforce experience": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\NVIDIA Corporation\\GeForce Experience.lnk"
+  },
+  "create usb recovery": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Create USB Recovery.lnk"
+  },
+  "task manager": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\System Tools\\Task Manager.lnk"
+  },
+  "tlauncher": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\TLauncher\\TLauncher.lnk"
+  },
+  "launch 1hello.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch 1HELLO.EXE.lnk"
+  },
+  "launch bgiobj.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch BGIOBJ.EXE.lnk"
+  },
+  "launch cpp.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch CPP.EXE.lnk"
+  },
+  "launch dimnd.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DIMND.EXE.lnk"
+  },
+  "launch dosbox.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DOSBox.exe.lnk"
+  },
+  "launch dpmiinst.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DPMIINST.EXE.lnk"
+  },
+  "launch dpmiload.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DPMILOAD.EXE.lnk"
+  },
+  "launch dpmires.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch DPMIRES.EXE.lnk"
+  },
+  "launch ex1.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch EX1.EXE.lnk"
+  },
+  "launch grep2msg.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch GREP2MSG.EXE.lnk"
+  },
+  "launch make.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch MAKE.EXE.lnk"
+  },
+  "launch maker.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch MAKER.EXE.lnk"
+  },
+  "launch noname00.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch NONAME00.EXE.lnk"
+  },
+  "launch prj2mak.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch PRJ2MAK.EXE.lnk"
+  },
+  "launch prjcfg.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch PRJCFG.EXE.lnk"
+  },
+  "launch prjcnvt.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch PRJCNVT.EXE.lnk"
+  },
+  "launch tasm2msg.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TASM2MSG.EXE.lnk"
+  },
+  "launch tc.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TC.EXE.lnk"
+  },
+  "launch tcc.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TCC.EXE.lnk"
+  },
+  "launch tdump.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TDUMP.EXE.lnk"
+  },
+  "launch temc.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TEMC.EXE.lnk"
+  },
+  "launch tlib.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TLIB.EXE.lnk"
+  },
+  "launch tlink.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TLINK.EXE.lnk"
+  },
+  "launch trancopy.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TRANCOPY.EXE.lnk"
+  },
+  "launch trigraph.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch TRIGRAPH.EXE.lnk"
+  },
+  "launch uninstall.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch uninstall.exe.lnk"
+  },
+  "launch unzip.exe": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Launch UNZIP.EXE.lnk"
+  },
+  "turbo c++": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Turbo C++.lnk"
+  },
+  "uninstall turbo c++ 3.2": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Turbo C++\\Turbo C++ 3.2\\Uninstall Turbo C++ 3.2.lnk"
+  },
+  "report a problem with unity": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Unity 2022.3.25f1\\Report a Problem with Unity.lnk"
+  },
+  "unity": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Unity 2022.3.25f1\\Unity.lnk"
+  },
+  "videolan website": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VideoLAN Website.lnk"
+  },
+  "vlc media player - reset preferences and cache files": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player - reset preferences and cache files.lnk"
+  },
+  "vlc media player skinned": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player skinned.lnk"
+  },
+  "vlc media player": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\VideoLAN\\VLC media player.lnk"
+  },
+  "reset the visual studio 2022 experimental instance": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Microsoft Visual Studio SDK\\Tools\\Reset the Visual Studio 2022 Experimental Instance.lnk"
+  },
+  "start experimental instance of visual studio 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Microsoft Visual Studio SDK\\Tools\\Start Experimental Instance of Visual Studio 2022.lnk"
+  },
+  "debuggable package manager": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Debuggable Package Manager.lnk"
+  },
+  "developer command prompt for vs 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer Command Prompt for VS 2022.lnk"
+  },
+  "developer powershell for vs 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\Developer PowerShell for VS 2022.lnk"
+  },
+  "x64 native tools command prompt for vs 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64 Native Tools Command Prompt for VS 2022.lnk"
+  },
+  "x64_x86 cross tools command prompt for vs 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x64_x86 Cross Tools Command Prompt for VS 2022.lnk"
+  },
+  "x86 native tools command prompt for vs 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86 Native Tools Command Prompt for VS 2022.lnk"
+  },
+  "x86_x64 cross tools command prompt for vs 2022": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio 2022\\Visual Studio Tools\\VC\\x86_x64 Cross Tools Command Prompt for VS 2022.lnk"
+  },
+  "application verifier (x64)": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X64)\\Application Verifier (X64).lnk"
+  },
+  "application verifier help": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X64)\\Application Verifier Help.lnk"
+  },
+  "application verifier (wow)": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Application Verifier (X86)\\Application Verifier (WOW).lnk"
+  },
+  "windows app cert kit": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows App Certification Kit\\Windows App Cert Kit.lnk"
+  },
+  "gpuview help": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\GPUView Help.lnk"
+  },
+  "gpuview": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\GPUView.lnk"
+  },
+  "windows performance analyzer": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Analyzer.lnk"
+  },
+  "windows performance recorder": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Performance Toolkit\\Windows Performance Recorder.lnk"
+  },
+  "documentation for desktop apps": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for Desktop Apps.lnk"
+  },
+  "documentation for windows store apps": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Documentation for Windows Store Apps.lnk"
+  },
+  "samples for desktop apps": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Desktop Apps.lnk"
+  },
+  "samples for windows store apps": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Samples for Windows Store Apps.lnk"
+  },
+  "tools for desktop apps": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Desktop Apps.lnk"
+  },
+  "tools for windows store apps": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Tools for Windows Store Apps.lnk"
+  },
+  "windows software development kit": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows Kits\\Windows Software Development Kit\\Windows Software Development Kit.lnk"
+  },
+  "windows powershell ise (x86)": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE (x86).lnk"
+  },
+  "windows powershell ise": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Windows PowerShell\\Windows PowerShell ISE.lnk"
+  },
+  "uninstall xampp": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\Uninstall XAMPP.lnk"
+  },
+  "xampp control panel": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\XAMPP Control Panel.lnk"
+  },
+  "xampp htdocs folder": {
+    "type": "lnk",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\XAMPP\\XAMPP htdocs folder.lnk"
+  }
+}
